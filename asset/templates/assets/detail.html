@@ -177,17 +177,17 @@
             </table>
         <h4><b>硬盘:</b></h4>
         <table border="1" class="table  table-responsive" style="border-left:3px solid brown;border-bottom:1px solid brown">
-                <thead>
-                    <tr>
-                        <th style="width:5%;">序号</th>
-                        <th>型号</th>
-                        <th>容量</th>
-                        <th>插槽</th>
-                        <th>接口类型</th>
-                        <th>制造商</th>
-                        <th>SN</th>
-                    </tr>
-                </thead>
+{#                <thead>#}
+{#                    <tr>#}
+{#                        <th style="width:5%;">序号</th>#}
+{#                        <th>型号</th>#}
+{#                        <th>容量</th>#}
+{#                        <th>插槽</th>#}
+{#                        <th>接口类型</th>#}
+{#                        <th>制造商</th>#}
+{#                        <th>SN</th>#}
+{#                    </tr>#}
+{#                </thead>#}
                 <tbody>
                 {% for disk in asset.disk_set.all %}
                     <tr>
