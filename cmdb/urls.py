@@ -20,5 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('assets/', include(('asset.urls', 'asset'), namespace='assets')),
     path('login/', include(('login.urls', 'login'), namespace='login')),
-    path('', include('captcha.urls')),
+    # path('', include('captcha.urls')),
 ]

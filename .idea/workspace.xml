@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1af021f3-8f80-4049-a848-66c1689b34ff" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/cmdb/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/login/static/login/images/bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/login/static/login/images/main_bg.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Client/conf/settings.py" afterPath="$PROJECT_DIR$/Client/conf/settings.py" />
+      <change beforePath="$PROJECT_DIR$/Client/log/cmdb.log" afterPath="$PROJECT_DIR$/Client/log/cmdb.log" />
+      <change beforePath="$PROJECT_DIR$/asset/templates/assets/base.html" afterPath="$PROJECT_DIR$/asset/templates/assets/base.html" />
+      <change beforePath="$PROJECT_DIR$/asset/templates/assets/index.html" afterPath="$PROJECT_DIR$/asset/templates/assets/index.html" />
+      <change beforePath="$PROJECT_DIR$/cmdb/urls.py" afterPath="$PROJECT_DIR$/cmdb/urls.py" />
+      <change beforePath="$PROJECT_DIR$/login/forms.py" afterPath="$PROJECT_DIR$/login/forms.py" />
+      <change beforePath="$PROJECT_DIR$/login/static/login/css/login.css" afterPath="$PROJECT_DIR$/login/static/login/css/login.css" />
+      <change beforePath="$PROJECT_DIR$/login/templates/login/login.html" afterPath="$PROJECT_DIR$/login/templates/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/login/templates/login/register.html" afterPath="$PROJECT_DIR$/login/templates/login/register.html" />
+      <change beforePath="$PROJECT_DIR$/static/css/login.css" afterPath="$PROJECT_DIR$/static/css/login.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,67 +44,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmdb/urls.py">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/templates/login/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asset/templates/assets/detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="172" column="78" lean-forward="false" selection-start-line="172" selection-start-column="78" selection-end-line="172" selection-end-column="78" />
+            <state relative-caret-position="306">
+              <caret line="39" column="75" lean-forward="true" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
               <folding>
-                <element signature="e#6304#6321#0#HTML" expanded="true" />
-                <marker date="1543302307888" expanded="false" signature="7530:7539" ph="..." />
+                <element signature="n#style#0;n#button#0;n#li#1;n#ul#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminLTE.min.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/asset/static/dist/css/AdminLTE.min.css">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="6" column="38447" lean-forward="false" selection-start-line="6" selection-start-column="38447" selection-end-line="6" selection-end-column="38447" />
+            <state relative-caret-position="782">
+              <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asset/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asset/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="56" column="51" lean-forward="false" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -104,15 +84,26 @@
       <find>请检查填写的内容!</find>
       <find>密码</find>
       <find>24027457</find>
-      <find>登出</find>
       <find>online</find>
       <find>172.16.5.26</find>
       <find>127.0.0.1</find>
-      <find>序号</find>
       <find>管理员</find>
       <find>AdminL</find>
+      <find>序号</find>
+      <find>登出</find>
+      <find>退出</find>
+      <find>提交</find>
+      <find>\&lt;div class\=\&quot;form\-group\&quot;\&gt;\#\}\n\{\#                    \{\{ register_form\.captcha\.errors \}\}\#\}\n\{\#                    \{\{ register_form\.captcha\.label_tag \}\}\#\}\n\{\#                    \{\{ register_form\.captcha \}\}\#\}\n\{\#</find>
+      <find>captcha</find>
+      <find>images</find>
+      <find>landscape</find>
+      <find>jpg</find>
+      <find>form-control</find>
+      <find>{#</find>
+      <find>注册</find>
     </findStrings>
     <dirStrings>
+      <dir>F:\codeworkspace\python\diango\cmdb\asset</dir>
       <dir>F:\codeworkspace\python\diango\cmdb</dir>
     </dirStrings>
   </component>
@@ -122,16 +113,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/login/forms.py" />
         <option value="$PROJECT_DIR$/login/views.py" />
         <option value="$PROJECT_DIR$/asset/views.py" />
-        <option value="$PROJECT_DIR$/asset/templates/assets/index.html" />
         <option value="$PROJECT_DIR$/asset/templates/assets/dashboard.html" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/Client/conf/settings.py" />
         <option value="$PROJECT_DIR$/Client/log/cmdb.log" />
-        <option value="$PROJECT_DIR$/cmdb/urls.py" />
         <option value="$PROJECT_DIR$/asset/templates/assets/detail.html" />
+        <option value="$PROJECT_DIR$/asset/templates/assets/index.html" />
+        <option value="$PROJECT_DIR$/asset/templates/assets/base.html" />
+        <option value="$PROJECT_DIR$/cmdb/settings.py" />
+        <option value="$PROJECT_DIR$/login/templates/login/register.html" />
+        <option value="$PROJECT_DIR$/static/css/login.css" />
+        <option value="$PROJECT_DIR$/login/static/login/css/login.css" />
+        <option value="$PROJECT_DIR$/login/templates/login/login_bak.html" />
+        <option value="$PROJECT_DIR$/login/forms.py" />
+        <option value="$PROJECT_DIR$/cmdb/urls.py" />
+        <option value="$PROJECT_DIR$/Client/conf/settings.py" />
+        <option value="$PROJECT_DIR$/login/templates/login/login.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -143,7 +141,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -166,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,89 +176,42 @@
             <path>
               <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
+              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="AdminLTE.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="Client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="Client" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="Client" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="Client" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="windows" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
-              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/cmdb/settings.py" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/cmdb/settings.py&#10;F:/codeworkspace/python/diango/cmdb/.gitignore" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="SearchEverywhereHistoryKey" value="AdminL&#9;FILE&#9;file://F:/codeworkspace/python/diango/cmdb/asset/static/dist/css/AdminLTE.min.css" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\codeworkspace\python\diango\cmdb\login\static\login\images" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\login\templates\login" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\login\static\login" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\login\static\login\css\images" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\static\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\codeworkspace\python\diango\cmdb\static\css" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\login\templates\login" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\cmdb" />
+      <recent name="F:\codeworkspace\python\diango\cmdb\asset\static\dist\css" />
       <recent name="F:\codeworkspace\python\diango\cmdb" />
-      <recent name="F:\codeworkspace\python\diango\cmdb\asset" />
-      <recent name="F:\codeworkspace\python\diango\cmdb\asset\templates\assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -298,8 +250,8 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="DJANGO_SETTINGS_MODULE" value="cmdb.settings" />
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="cmdb.settings" />
       </envs>
       <option name="SDK_HOME" value="F:\venv\cmdb\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -347,28 +299,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15530726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25698325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20446928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20446928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -420,6 +372,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login/templates/login/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/templates/assets/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="38" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/templates/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#1;n#ul#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2312">
@@ -432,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,9 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,9 +422,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#628#660#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="57" lean-forward="false" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5032">
           <caret line="296" column="13" lean-forward="false" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="79" column="48" lean-forward="true" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,9 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -528,9 +490,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#628#660#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="57" lean-forward="true" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5032">
           <caret line="296" column="13" lean-forward="true" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,43 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1666">
           <caret line="98" column="74" lean-forward="true" selection-start-line="98" selection-start-column="74" selection-end-line="98" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#106#134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="144" column="0" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login/templates/login/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,27 +544,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/templates/login/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/venv/cmdb/Lib/site-packages/django/core/handlers/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1233">
           <caret line="135" column="74" lean-forward="true" selection-start-line="135" selection-start-column="74" selection-end-line="135" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asset/templates/assets/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,31 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asset/templates/assets/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="43" lean-forward="false" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmdb/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Client/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +569,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/static/dist/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="6" column="38447" lean-forward="false" selection-start-line="6" selection-start-column="38447" selection-end-line="6" selection-end-column="38447" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/templates/assets/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="38" lean-forward="false" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -707,29 +596,139 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/asset/templates/assets/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="189" column="28" lean-forward="true" selection-start-line="189" selection-start-column="28" selection-end-line="189" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/templates/login/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/templates/login/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="17" column="85" lean-forward="true" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/static/login/images/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/static/login/images/main_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/static/login/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/venv/cmdb/Lib/site-packages/django/forms/widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="273" column="23" lean-forward="false" selection-start-line="273" selection-start-column="23" selection-end-line="273" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="80" lean-forward="true" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/templates/login/login_bak.html" />
+    <entry file="file://$PROJECT_DIR$/login/templates/login/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="66" column="68" lean-forward="true" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/asset/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cmdb/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="21" column="72" lean-forward="true" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asset/templates/assets/detail.html">
+    <entry file="file://$PROJECT_DIR$/Client/conf/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="172" column="78" lean-forward="false" selection-start-line="172" selection-start-column="78" selection-end-line="172" selection-end-column="78" />
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/templates/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="112" column="31" lean-forward="true" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="54" lean-forward="false" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/templates/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="75" lean-forward="true" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
           <folding>
-            <element signature="e#6304#6321#0#HTML" expanded="true" />
-            <marker date="1543302307888" expanded="false" signature="7530:7539" ph="..." />
+            <element signature="n#style#0;n#button#0;n#li#1;n#ul#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -737,15 +736,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asset/static/dist/css/AdminLTE.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="6" column="38447" lean-forward="false" selection-start-line="6" selection-start-column="38447" selection-end-line="6" selection-end-column="38447" />
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
